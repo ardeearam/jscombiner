@@ -1,7 +1,7 @@
 What is JSCombiner?
 ===================
 
-.. image:: jscombiner.png
+.. image:: https://bitbucket.org/ardee_aram/jscombiner/raw/7769d4d45cd144cbc0948ac7a15acf82b5e127fc/jscombiner.png
 
 JSCombiner is a simple GUI tool that enables you to combine several javascripts on the same folder to a single javascript. 
 
