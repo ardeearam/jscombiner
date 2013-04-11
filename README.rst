@@ -1,22 +1,25 @@
-=What is JSCombiner?=
+What is JSCombiner?
+===================
 
-JSCombiner is a GUI tool that enables you to combine several javascripts on the 
-same folder to a single javascript. JSCombiner watches your javascripts to see 
-if there are any changes, and automatically recombines these scripts into one. 
+JSCombiner is a simple GUI tool that enables you to combine several javascripts on the same folder to a single javascript. 
+JSCombiner watches your javascripts to see if there are any changes, and automatically recombines these scripts into one. 
 You run it, and forget it. 
 
-=Prerequisites=
+Requirements
+============
 
 To run JSCombiner you must have the following installed:
 
 * Java Runtime Environment >= 1.7.0	(jRuby has a bundled distribution)
 * jRuby http://jruby.org/
 
-=Contact=
+Contact
+=======
 
 Email me at ardee at rubiks dot ph.
 
-=Legal=
+Legal
+=====
 
 Copyright (c) 2013 Rubiks Software Corporation
 http://rubiks.ph 
