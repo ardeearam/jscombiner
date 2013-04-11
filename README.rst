@@ -2,6 +2,7 @@ What is JSCombiner?
 ===================
 
 JSCombiner is a simple GUI tool that enables you to combine several javascripts on the same folder to a single javascript. 
+
 JSCombiner watches your javascripts to see if there are any changes, and automatically recombines these scripts into one. 
 You run it, and forget it. 
 

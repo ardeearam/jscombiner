@@ -49,7 +49,7 @@ class JSCombiner < JFrame
 	include ActionListener
   
     def initialize
-        super "Simple Javascript Combiner"
+        super "JSCombiner"
 		self.output_javascript = "script.js"
         
         self.initUI
@@ -95,7 +95,7 @@ class JSCombiner < JFrame
 		@fileChooser = JFileChooser.new
 		@fileChooser.setFileSelectionMode JFileChooser::DIRECTORIES_ONLY
 		
-		@status = JTextArea.new "Simple Javascript Combiner v0.1 \nhttp://rubiks.ph\n", 200, 200
+		@status = JTextArea.new "JSCombiner v0.1 \nhttp://rubiks.ph\n", 200, 200
 		@status.setBounds 0, 0, 500, 200
 		@status.setEditable false
 		@status.getCaret.setUpdatePolicy DefaultCaret::ALWAYS_UPDATE
