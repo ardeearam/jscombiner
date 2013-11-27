@@ -95,7 +95,7 @@ class JSCombiner < JFrame
 		@fileChooser = JFileChooser.new
 		@fileChooser.setFileSelectionMode JFileChooser::DIRECTORIES_ONLY
 		
-		@status = JTextArea.new "JSCombiner v0.1 \nhttp://rubiks.ph\n", 200, 200
+		@status = JTextArea.new "JSCombiner v0.1 \nhttp://ardeearam.com\n", 200, 200
 		@status.setBounds 0, 0, 500, 200
 		@status.setEditable false
 		@status.getCaret.setUpdatePolicy DefaultCaret::ALWAYS_UPDATE
