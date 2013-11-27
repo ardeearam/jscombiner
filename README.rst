@@ -19,13 +19,13 @@ To run JSCombiner you must have the following installed:
 Contact
 =======
 
-Email me at ardee at rubiks dot ph.
+Email me at web at ardeearam dot com.
 
 Legal
 =====
 
-Copyright (c) 2013 Rubiks Software Corporation
-http://rubiks.ph 
+Copyright (c) 2013 Ardee Aram
+http://ardeearam.com 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in 
