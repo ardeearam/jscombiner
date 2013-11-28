@@ -198,7 +198,7 @@ class JSCombiner < JFrame
 			file_parts = file.split('.')
 			#do not include the output javascript
 			file_parts[file_parts.length - 1] == 'js' && file != self.output_javascript
-		}.each{|file|
+		}.sort.each{|file|
 			yield file
 		}
 	end
